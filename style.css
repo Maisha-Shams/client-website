@@ -1,0 +1,152 @@
+body{
+    
+    margin:0%;
+    
+}
+.halfwidth{
+    width:40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;}
+
+.namehighlight{
+    color: rgb(179, 17, 6);
+}
+
+
+.link{
+    text-decoration:none;
+    color:white;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: rgb(12, 79, 180);
+    background-image: linear-gradient(45deg,rgb(12, 79, 180), rgb(54, 120, 219));
+    border-radius: 4px;
+    padding: 5px 5px;
+    font-weight: 700;
+    margin-left:10px;
+    margin-right: 10px;
+    box-shadow: 2px 2px 10px rgb(155, 155, 155);}
+
+    .insbutt{
+            color:black;
+            font-family: cursive;
+            background-image: linear-gradient(60deg, rgb(206, 52, 162),rgb(224, 222, 63));
+        
+    }
+    img{
+        height: 500px;
+
+    }
+    .topbanner{
+        background-image: url(images/header-bg.png);
+        background-size:  100% 125%;
+        background-repeat: no-repeat;
+        background-position: top;
+
+    }
+    .sec1{
+        position: relative ;
+        top: 150px;
+    }
+    section{
+        height: 500px;
+    }
+    .biohighlight{
+        color: rgb(33, 33, 172);
+    }
+    .sec2{
+        position: relative ;
+        top: 150px;
+    }
+    .redbutt{
+        color:rgb(182, 7, 7);
+            font-family: cursive;
+            background-image: linear-gradient(60deg, rgb(126, 124, 124),rgb(170, 170, 160));
+    }
+    .studwhite{
+        color: white;
+    }
+    .biography{
+        background-image: url(images/biography-bg.png);
+        background-size:  100% 100%;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+    .heading-latest{
+        text-align: center;
+    }
+ 
+  .latestimages{
+      height: 330px;
+      width: 320px;
+      padding-left: 7%;
+      
+  }
+  .img1:hover{
+      width: 30%;
+      height: 30%;
+  }
+  .img2:hover{
+    width: 30%;
+    height: 30%;
+}
+.img3:hover{
+    width: 30%;
+    height: 30%;
+}
+.works{
+    background-image: url(images/latest-work-bg.png);
+    background-size:  100% 100% ;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.client{
+    background-image: url(images/footer-bg.png);
+    background-size:  100% 120% ;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.sec3{
+    position: relative ;
+        top: 75px;
+    }
+.sec4head{
+    color: rgb(168, 5, 5);
+    text-align: center;
+}
+.sec4{
+    position: relative ;
+    top: 100px;}
+
+.emailbutt{
+    background-image: linear-gradient(60deg, rgb(34, 190, 190),rgb(117, 221, 224));
+    color: rgb(51, 50, 50);
+}
+footer{
+    
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100px;
+
+}
+#butts1:hover{
+    box-shadow: 10px 10px 40px rgb(42, 134, 255);
+
+}
+#butts2:hover{
+    box-shadow: 10px 10px 40px rgb(228, 182, 32);
+}
+#butts3:hover{
+    box-shadow: 10px 10px 40px rgb(97, 94, 94);
+}
+#butts4:hover{
+    box-shadow: 10px 10px 40px rgb(38, 141, 141);
+}
+
+
+
+ 
